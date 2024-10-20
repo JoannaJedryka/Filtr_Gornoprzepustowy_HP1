@@ -1,0 +1,16 @@
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\bin\x64\Debug\JAProjekt.exe.config
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\bin\x64\Debug\JAProjekt.exe
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\bin\x64\Debug\JAProjekt.pdb
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.csproj.AssemblyReference.cache
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.csproj.CoreCompileInputs.cache
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.exe
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR 5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.pdb
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\bin\x64\Debug\JAProjekt.exe.config
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\bin\x64\Debug\JAProjekt.exe
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\bin\x64\Debug\JAProjekt.pdb
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.csproj.AssemblyReference.cache
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.csproj.CoreCompileInputs.cache
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.exe
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\obj\x64\Debug\JAProjekt.pdb
