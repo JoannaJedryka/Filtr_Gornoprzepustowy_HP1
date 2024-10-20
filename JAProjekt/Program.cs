@@ -13,12 +13,10 @@ namespace JAProjekt
     static class Program
     {
         [DllImport(@"C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JAAsm.dll")]
-        public static extern unsafe int count_asm(int a, int b);
+        public static extern int count_asm(int a, int b);
 
-        public static int count(int a, int b)
-        {
-            return a + b;
-        }
+        [DllImport(@"C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JACpp.dll")]
+        public static extern int count_cpp(int a, int b);
 
         // [STAThread]
         static void Main()
@@ -33,7 +31,7 @@ namespace JAProjekt
             Console.ReadLine();
 
             int retValCpp = 0;
-            Thread threadCpp = new Thread(() => { retValCpp = count(x, y); });
+            Thread threadCpp = new Thread(() => { retValCpp = count_cpp(x, y); });
             threadCpp.Start();
             threadCpp.Join();
             Console.WriteLine("Wartość obliczona w cpp to: " + retValCpp);
