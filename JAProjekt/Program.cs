@@ -23,19 +23,27 @@ namespace JAProjekt
         */
         
         [DllImport(@"C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JAAsm.dll")]
-        public static extern int count_asm(int a, int b);
+        public static extern unsafe int count_asm(int* result, int a, int b);
 
         [DllImport(@"C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JACpp.dll")]
         public static extern int count_cpp(int a, int b);
+        static int retValAsm = 0;
 
-        static void Main()
+        static unsafe void Main()
         {
 
             int x = 3, y = 5;
-            int retValAsm = 0;
-            Thread threadAsm = new Thread(() => { retValAsm = count_asm(x, y); });
+            // Utworzenie wątku dla wywołania funkcji count_asm
+            Thread threadAsm = new Thread(() =>
+            {
+                // Wywołanie funkcji asm w wątku
+                fixed (int* ptr = &retValAsm) // Użycie 'fixed' dla bezpiecznego przekazania wskaźnika
+                {
+                    count_asm(ptr, x, y);
+                }
+            });
             threadAsm.Start();
-            threadAsm.Join();
+            threadAsm.Join(); 
             Console.WriteLine("Wartość obliczona w asm to: " + retValAsm);
             //Console.ReadLine();
 
