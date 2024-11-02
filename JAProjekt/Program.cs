@@ -29,8 +29,8 @@ namespace JAProjekt
         [DllImport(@"C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JAAsm.dll")]
         public static extern unsafe int count_asm(IntPtr dataPtr, int length);
 
-        [DllImport(@"C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JACpp.dll")]
-        public static extern int count_cpp(int a, int b);
+        [DllImport(@"C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JADLL.dll")]
+        public static extern int count_c(int a, int b);
 
         static void ProcessImageInThreads(Bitmap bitmap, int threadCount)
         {

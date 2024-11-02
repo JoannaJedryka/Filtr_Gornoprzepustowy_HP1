@@ -1,0 +1,6 @@
+﻿  JADLL.cpp
+C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JADLL\JADLL.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+JADLL.h(1): warning LNK4017: #pragma statement not supported for the target platform; ignored
+JADLL.h(1): warning LNK4017: extern statement not supported for the target platform; ignored
+     Creating library C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JADLL.lib and object C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JADLL.exp
+  JADLL.vcxproj -> C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JADLL.dll
