@@ -1,6 +1,1 @@
-﻿  JACpp.cpp
-C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JACpp\JACpp.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-JACpp.h(1): warning LNK4017: #pragma statement not supported for the target platform; ignored
-JACpp.h(2): warning LNK4017: extern statement not supported for the target platform; ignored
-     Creating library C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JACpp.lib and object C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JACpp.exp
-  JACpp.vcxproj -> C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JACpp.dll
+﻿  JACpp.vcxproj -> C:\Users\asia3\OneDrive\Pulpit\STUDIA\3_ROK_2024-2025\SEMESTR_5\JA\Filtr_Gornoprzepustowy_HP1\JAProjekt\x64\Debug\JACpp.dll
